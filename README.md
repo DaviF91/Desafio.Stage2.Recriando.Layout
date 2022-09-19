@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://https://davif91.github.io/Stage02.Desafio1.Recriando-Layout-Pagina-Rocket.sect/" targert="_blank"> ▶️ Visualizar Página </a>
+  <a href="https://davif91.github.io/Stage02.Desafio1.Recriando-Layout-Pagina-Rocket.sect/" targert="_blank"> ▶️ Visualizar Página </a>
 </div>
 </br>
 
